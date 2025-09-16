@@ -1,0 +1,153 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 1024px;
+  position: relative;
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1024px;
+  position: relative;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.group-1 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.landing-page {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.hailey-moore {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 42px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 1055px;
+  top: 41px;
+}
+.home-span {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.home-span2 {
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1163px;
+  top: 49px;
+}
+.contact2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1272px;
+  top: 49px;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 158px;
+  width: 851px;
+  height: 88px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-paul-t-shapiro-pshapiro-umd-edu {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 85px;
+  top: 246px;
+  width: 1208px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-paul-t-shapiro-pshapiro-umd-edu-span {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-paul-t-shapiro-pshapiro-umd-edu-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.hailey-moore-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 888px;
+}
+.ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-ed {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 489px;
+  width: 1208px;
+}

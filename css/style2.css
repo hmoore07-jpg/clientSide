@@ -1,0 +1,131 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 1024px;
+  position: relative;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.group-1 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.landing-page {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.hailey-moore {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 42px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 1055px;
+  top: 41px;
+}
+.home-span {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.home-span2 {
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1163px;
+  top: 49px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1272px;
+  top: 49px;
+}
+.budt-748-industry-practicum {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 158px;
+  width: 851px;
+  height: 88px;
+}
+.budt-748-is-a-capstone-course-that-all-students-have-to-take-students-work-in-teams-with-real-world-clients-designing-a-system-for-them-based-on-what-their-business-needs-and-areas-of-improvements-are {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 246px;
+  width: 1208px;
+}
+.hailey-moore-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 888px;
+}
+.semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 385px;
+}
+.semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-fall-2025-professor-paul-t-shapiro-teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}

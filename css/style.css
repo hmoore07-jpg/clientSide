@@ -1,0 +1,158 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1024px;
+  position: relative;
+}
+.group-2 {
+  flex-shrink: 0;
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.group-1 {
+  width: 1440px;
+  height: 1024px;
+  position: static;
+}
+.landing-page2 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.hailey-moore {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 42px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 1055px;
+  top: 39px;
+}
+.home-span {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.home-span2 {
+  font-family: "InriaSerif-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1163px;
+  top: 47px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1272px;
+  top: 47px;
+}
+.welcome-to-my-page {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 263px;
+  top: 275px;
+  width: 915px;
+  height: 88px;
+}
+.i-currently-work-as-a-customer-services-and-delivery-intern-at-sap-ns-2-and-have-been-with-them-since-may {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 277px;
+  top: 409px;
+  width: 907px;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 581px;
+  overflow: visible;
+  background-color: rgb(102, 255, 47);
+}
+.hailey-moore-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 888px;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 600px;
+}
